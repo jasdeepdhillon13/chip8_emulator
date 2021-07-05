@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/jas/emulator_project/chip8_emulator/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/include/SDL2  -g   -std=gnu++11 -o CMakeFiles/chip8.dir/Chip8.cpp.o -c /home/jas/emulator_project/chip8_emulator/Chip8.cpp",
+  "file": "/home/jas/emulator_project/chip8_emulator/Chip8.cpp"
+},
+{
+  "directory": "/home/jas/emulator_project/chip8_emulator/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/include/SDL2  -g   -std=gnu++11 -o CMakeFiles/chip8.dir/main.cpp.o -c /home/jas/emulator_project/chip8_emulator/main.cpp",
+  "file": "/home/jas/emulator_project/chip8_emulator/main.cpp"
+},
+{
+  "directory": "/home/jas/emulator_project/chip8_emulator/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/usr/include/SDL2  -g   -std=gnu++11 -o CMakeFiles/chip8.dir/Platform.cpp.o -c /home/jas/emulator_project/chip8_emulator/Platform.cpp",
+  "file": "/home/jas/emulator_project/chip8_emulator/Platform.cpp"
+}
+]
